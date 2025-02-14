@@ -1,0 +1,14 @@
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\bin\Debug\net8.0\DeckOfCardsProject.exe
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\bin\Debug\net8.0\DeckOfCardsProject.deps.json
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\bin\Debug\net8.0\DeckOfCardsProject.runtimeconfig.json
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\bin\Debug\net8.0\DeckOfCardsProject.dll
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\bin\Debug\net8.0\DeckOfCardsProject.pdb
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\obj\Debug\net8.0\DeckOfCardsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\obj\Debug\net8.0\DeckOfCardsProject.AssemblyInfoInputs.cache
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\obj\Debug\net8.0\DeckOfCardsProject.AssemblyInfo.cs
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\obj\Debug\net8.0\DeckOfCardsProject.csproj.CoreCompileInputs.cache
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\obj\Debug\net8.0\DeckOfCardsProject.dll
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\obj\Debug\net8.0\refint\DeckOfCardsProject.dll
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\obj\Debug\net8.0\DeckOfCardsProject.pdb
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\obj\Debug\net8.0\DeckOfCardsProject.genruntimeconfig.cache
+C:\Users\Russel\Documents\MOBILE_DEV 1st activity\DeckOfCardsProject\obj\Debug\net8.0\ref\DeckOfCardsProject.dll
